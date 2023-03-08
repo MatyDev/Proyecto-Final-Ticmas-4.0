@@ -1,0 +1,109 @@
+/**Estilos*/
+
+.upper
+{
+    background: linear-gradient(105deg, rgba(255,255,255,.2) 39%, rgba(51,56,57,1) 99%) center center / 1400px 320px no-repeat,
+    url(big-star.png) center no-repeat, aqua;
+}
+
+.subtitle
+{
+    background: linear-gradient(to right, rgb(43, 43, 43) -95%, Aqua);
+}
+
+.Buttons
+{
+    background: linear-gradient(105deg, rgba(255,255,255,.2) 39%, rgba(51,56,57,1) 99%) center center / 1400px 320px no-repeat,
+    url(big-star.png) center no-repeat, aqua;
+}
+
+#texto{
+    font-family: arial black;
+    font-size: 36px;
+    background: linear-gradient(to right, rgb(43, 43, 43) -95%, Aqua);
+}
+
+#nombre{
+    display: inline-block;
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+}
+
+#nombre:hover
+{
+    background-color: red;
+}
+
+#email{
+    display: inline-block;
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+}
+
+#email:hover
+{
+    background-color: red;
+}
+
+#fecha{
+    display: inline-block;
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+}
+
+#fecha:hover
+{
+    background-color: red;
+}
+
+#dir{
+    display: inline-block;
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+}
+
+#dir:hover
+{
+    background-color: red;
+}
+
+#cel{
+    display: inline-block;
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+}
+
+#cel:hover
+{
+    background-color: red;
+}
+
+#foto
+{
+    border-radius: 50%;
+}
+
+.box {
+    background: linear-gradient(105deg, rgba(255,255,255,.2) 39%, rgba(51,56,57,1) 96%) center center / 400px 200px no-repeat,
+    url(big-star.png) center no-repeat, rebeccapurple;
+  }
+
+  .skills
+  {
+    background: linear-gradient(105deg, rgba(255,255,255,.2) 39%, rgba(51,56,57,1) 99%) center center / 1400px 320px no-repeat,
+    url(big-star.png) center no-repeat, aqua;
+  }
+
+  .networks_box
+  {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    width: 1280px;
+    background: linear-gradient(to right, rgb(43, 43, 43) -95%, Aqua);
+  }
